@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/ibrahim-new-site-3/download.jpeg
+file: /media/courses/124-ibrahim-new-site-3-fall-2025/download.jpeg
 file_size: 11852
 file_type: image/jpeg
 image_metadata:
