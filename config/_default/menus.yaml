@@ -1,0 +1,17 @@
+leftnav:
+- identifier: d6ef1219-1bf1-439e-a5b3-22bb0f8ada2a
+  name: M1
+  pageRef: /pages/p1
+  weight: 10
+- identifier: a65e0ac8-e39c-45f5-9655-21c782948f27
+  name: m2
+  pageRef: /pages/p2
+  weight: 20
+- identifier: 4a0ef886-c9e7-4c45-9792-af187854e254
+  name: m3
+  pageRef: /pages/p3
+  weight: 30
+- identifier: eda238be-9d48-4b14-85e4-35ec7df56955
+  name: m4
+  pageRef: /lists/rl1
+  weight: 40
